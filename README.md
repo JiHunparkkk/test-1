@@ -32,4 +32,7 @@ int main()
 - 이미지 연습
   
   ![이미지 연습](https://images.unsplash.com/photo-1627372129933-9abc19b91f21?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80)
+  
+  - 디렉터리 이용
+
   ![코딩사진](./image/coding.jpg)
